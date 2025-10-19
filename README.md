@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roua Ben Romdhane</h1>
-<h3 align="center">**FinTech Engineer** specializing in building secure, high-performance financial applications</h3>
+<h3 align="center">**AI Engineer** specializing in the development of innovative probabilistic systems for the FinTech and insurance sectors</h3>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" alt="FinTech Animation" width="400" />
